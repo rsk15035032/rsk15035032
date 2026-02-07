@@ -3,15 +3,6 @@
 
 I build data-driven, scalable ML systems that move from research to real-world production. My work sits at the intersection of Machine Learning, Deep Learning, and Software Engineering, with a strong focus on writing clean, reliable, and deployable code.
 I enjoy turning raw data into intelligent products — from training models and designing APIs to deploying end-to-end ML pipelines with proper MLOps practices.
-
-What I work with:
-
-🐍 Python for ML & backend development
-🤖 Machine Learning & Deep Learning (modeling, training, evaluation)
-🔌 APIs & ML services (FastAPI, REST)
-⚙️ MLOps (pipelines, versioning, deployment, monitoring)
-📊 Data preprocessing, feature engineering, and experimentation
-
 I’m constantly learning, building, and optimizing — aiming to create ML solutions that are not just accurate, but usable, scalable, and impactful.
 
 📌 Always open to collaborating on interesting ML projects and real-world problems.
