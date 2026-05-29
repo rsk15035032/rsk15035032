@@ -1,25 +1,38 @@
 # 💫 About Me:
-👋 Hi, I’m a Machine Learning Engineer
+👋 Hi, I’m an AI/ML Engineer
 
-I build data-driven, scalable ML systems that move from research to real-world production. My work sits at the intersection of Machine Learning, Deep Learning, and Software Engineering, with a strong focus on writing clean, reliable, and deployable code.
+I design and build production-ready AI applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and Machine Learning. My work combines AI engineering, software development, and MLOps to create scalable, intelligent systems that solve real-world problems.
 
-I enjoy turning raw data into intelligent products — from training models and designing APIs to deploying end-to-end ML pipelines with proper MLOps practices.
+I enjoy transforming ideas into end-to-end AI solutions — from data processing and model development to deploying APIs, agentic workflows, and cloud-native applications.
 
-What I work with:
+🚀 What I work with:
 
-🐍 Python for ML & backend development
+🐍 Python for AI, ML, and backend development
 
-🤖 Machine Learning & Deep Learning (modeling, training, evaluation)
+🤖 Generative AI, LLMs, RAG, and Agentic AI Systems
 
-🔌 APIs & ML services (FastAPI, REST)
+🔗 LangChain, LangGraph, and AI Workflow Orchestration
 
-⚙️ MLOps (pipelines, versioning, deployment, monitoring)
+📚 Vector Databases: ChromaDB, FAISS, Pinecone
 
-📊 Data preprocessing, feature engineering, and experimentation
+🧠 Machine Learning & Deep Learning: PyTorch, Scikit-learn
 
-I’m constantly learning, building, and optimizing — aiming to create ML solutions that are not just accurate, but usable, scalable, and impactful.
+⚡ FastAPI, REST APIs, and Third-Party API Integrations
 
-📌 Always open to collaborating on interesting ML projects and real-world problems..
+☁️ Cloud & AI Platforms: AWS, Vertex AI
+
+🐳 Docker, Containerization, and Deployment
+
+⚙️ MLOps, CI/CD, Model Monitoring, and ML Pipelines
+
+📊 Data Processing, Feature Engineering, Experimentation, and Evaluation
+
+🔍 Building AI Assistants, Multi-Agent Systems, Knowledge Retrieval Platforms, and Intelligent Automation Solutions
+
+I am passionate about developing reliable, scalable, and production-grade AI systems that bridge the gap between cutting-edge research and business impact.
+
+📌 Open to collaborating on AI/ML, Generative AI, RAG, Agentic AI, and MLOps projects. Always learning, building, and exploring the next generation of intelligent applications.
+
 
 
 # 💻 Tech Stack:
